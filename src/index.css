@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+body{
+  background-image: url(./assets/elliott-engelmann-DjlKxYFJlTc-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  
+
+  
+}
+@tailwind utilities;
